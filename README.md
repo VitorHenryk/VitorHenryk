@@ -8,3 +8,6 @@
 -->
 
 <img src="https://img.freepik.com/fotos-premium/um-gato-olhando-as-estrelas-no-ceu_256339-5084.jpg" alt="">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHenryk)](https://github.com/anuraghazra/github-readme-stats)
