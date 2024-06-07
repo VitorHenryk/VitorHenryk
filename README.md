@@ -1,6 +1,6 @@
 ## Como foi seu dia hoje? 🌟
 
-★ ⌚ Não Trabalho
+★ ⌚ Não Trabalho 
 ★ 📝 Estou aprendendo HTML/CSS/JAVASCRIPT
 ★ 🏐 Gosto de vôlei e Capoeira
 ★ 📫 Caso queira me contatar pode usar meu instagram: @VitorHenryk
