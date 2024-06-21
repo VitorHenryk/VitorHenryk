@@ -7,7 +7,7 @@
 ★ 😄 Pronouns: Ele/dele {Hetero} <br>
 -->
 
-<img src="https://img.freepik.com/fotos-premium/um-gato-olhando-as-estrelas-no-ceu_256339-5084.jpg" alt="" style= border-radius: 10;>
+<img src="https://img.freepik.com/fotos-premium/um-gato-olhando-as-estrelas-no-ceu_256339-5084.jpg" alt=""
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHenryk&show_icons=true&theme=ambient_gradient)
